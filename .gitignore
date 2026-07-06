@@ -1,0 +1,10 @@
+
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Large/generated data files
+*.npy
+*.pkl
+*.pt
+*.pth
